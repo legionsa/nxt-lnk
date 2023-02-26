@@ -1,9 +1,9 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Kalvin Lim',
-        username: '@kalvinlim',
-        url: 'https://kalvinlim.com',
+        name: 'nxt lnk',
+        username: 'nxtlnk.vercel.app',
+        url: 'https://nxtlnk.vercel.app',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
@@ -20,3 +20,4 @@ const bioData = [
 ];
 
 export default bioData;
+
