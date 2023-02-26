@@ -1,12 +1,12 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Kalvin Lim',
+        username: 'loz.my.id',
+        url: 'https://loz.my.id',
         titleImg: true,
         avatar: '/avatar.png',
-        nftAvatar: true,
+        nftAvatar: false,
         description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
