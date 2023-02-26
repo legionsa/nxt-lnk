@@ -2,6 +2,13 @@
 const webLinks = [
     // All social profile
     {
+        title: 'Linkedin',
+        url: 'https://www.linkedin.com/in/hikalvin/',
+        type: 'social',
+        icon: '/linkedin.svg',
+        on: true
+    },
+    {
         title: 'Twitter',
         url: 'https://twitter.com/hikalvin',
         type: 'social',
@@ -34,7 +41,7 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
@@ -45,7 +52,7 @@ const webLinks = [
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@realvjy',
+        url: 'https://figma.com/@hikalvin',
         type: 'social',
         icon: '/figma.svg',
         on: true
@@ -56,13 +63,6 @@ const webLinks = [
         type: 'social',
         icon: '/behance.svg',
         on: false
-    },
-    {
-        title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/hikalvin/',
-        type: 'social',
-        icon: '/linkedin.svg',
-        on: true
     },
     {
         title: 'Mastodon',
