@@ -135,30 +135,6 @@ const webLinks = [
         icon: '/github-fill.svg',
         on: true
     },
-
-    {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
-        type: 'other',
-        icon: '/bmc.png',
-        on: true
-    },
-
-    {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
-
-    {
-        title: 'maker website',
-        url: 'https://vjy.me',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
 ];
 
 export default webLinks;
