@@ -17,7 +17,7 @@ const webLinks = [
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        url: 'https://dribbble.com/HiKalvin',
         type: 'social',
         icon: '/dribbble.svg',
         on: false
