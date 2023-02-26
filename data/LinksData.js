@@ -3,21 +3,21 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/hikalvin',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/legionsa',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        url: 'https://dribbble.com/HiKalvin',
         type: 'social',
         icon: '/dribbble.svg',
         on: false
@@ -34,7 +34,7 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
@@ -45,7 +45,7 @@ const webLinks = [
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@realvjy',
+        url: 'https://figma.com/@hikalvin',
         type: 'social',
         icon: '/figma.svg',
         on: true
@@ -59,10 +59,10 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/hikalvin/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Mastodon',
