@@ -1,7 +1,7 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Kalvin Lim',
+        name: 'Kalvin',
         username: '@hikalvin',
         url: 'https://loz.my.id',
         titleImg: true,
