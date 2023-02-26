@@ -3,31 +3,31 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/hikalvin',
+        url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/hikalvin',
+        url: 'https://instagram.com/realvjy',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/HiKalvin',
+        url: 'https://dribbble.com/realvjy',
         type: 'social',
         icon: '/dribbble.svg',
-        on: true
+        on: false
     },
     {
         title: 'Medium',
-        url: 'https://medium.com/@KalvinLim',
+        url: 'https://medium.com/@realvjy',
         type: 'social',
         icon: '/medium.svg',
-        on: true
+        on: false
     },
     {
         title: 'Github',
@@ -45,7 +45,7 @@ const webLinks = [
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@hikalvin',
+        url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
         on: true
@@ -59,17 +59,17 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/hikalvin/',
+        url: 'https://www.linkedin.com/in/realvjy/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: true
+        on: false
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: false
+        on: true
     },
     {
         title: 'Hive Social',
@@ -112,28 +112,28 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'install',
         icon: '/use.png',
-        on: false
+        on: true
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/vercel.svg',
-        on: false
+        on: true
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: false
+        on: true
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: false
+        on: true
     },
 
     {
@@ -141,7 +141,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: false
+        on: true
     },
 
     {
@@ -149,7 +149,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 
     {
@@ -157,7 +157,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 ];
 
