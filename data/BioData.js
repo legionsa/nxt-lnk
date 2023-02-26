@@ -1,9 +1,9 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Kalvin Lim',
+        username: '@kalvin',
+        url: 'https://loz.my.id',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
@@ -11,10 +11,10 @@ const bioData = [
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
+        newProductUrl: 'https://kalvinlim.com',
         newProduct: true,
         author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        authorURL: 'https://twitter.com/hikalvin',
         footerText: 'made by'
     },
 ];
