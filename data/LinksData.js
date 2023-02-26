@@ -20,14 +20,14 @@ const webLinks = [
         url: 'https://dribbble.com/HiKalvin',
         type: 'social',
         icon: '/dribbble.svg',
-        on: false
+        on: true
     },
     {
         title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        url: 'https://medium.com/@KalvinLim',
         type: 'social',
         icon: '/medium.svg',
-        on: false
+        on: true
     },
     {
         title: 'Github',
@@ -59,17 +59,17 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/hikalvin/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -108,22 +108,22 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Portfolio',
+        url: 'https://kalvinlim.com/portfolio-view',
         type: 'Featured',
         icon: '/use.png',
         on: true
     },
     {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
+        title: 'Resume',
+        url: 'https://kalvinlim.com/resume',
         type: 'Featured',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
-        title: 'Documentation',
-        url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
+        title: 'Résumé',
+        url: 'https://kalvinlim.com/resume',
         type: 'Featured',
         icon: '/doc.png',
         on: true
@@ -133,7 +133,7 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'Featured',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 ];
 
