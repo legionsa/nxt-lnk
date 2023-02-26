@@ -51,7 +51,7 @@ const Links = () => {
 
   // Get data for install section
   const install = allLinks.filter((el) => {
-    return el.type === "featured" && el.on
+    return el.type === "install" && el.on
   });
 
   // Get data for nfts
