@@ -110,28 +110,28 @@ const webLinks = [
     {
         title: 'Use this template',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
-        type: 'install',
+        type: 'Featured',
         icon: '/use.png',
         on: true
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
-        type: 'install',
+        type: 'Featured',
         icon: '/vercel.svg',
         on: true
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
-        type: 'install',
+        type: 'Featured',
         icon: '/doc.png',
         on: true
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
-        type: 'install',
+        type: 'Featured',
         icon: '/github-fill.svg',
         on: true
     },
