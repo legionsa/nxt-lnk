@@ -51,7 +51,7 @@ const Links = () => {
 
   // Get data for install section
   const install = allLinks.filter((el) => {
-    return el.type === "install" && el.on
+    return el.type === "Featured" && el.on
   });
 
   // Get data for nfts
@@ -160,34 +160,7 @@ const Links = () => {
             }
             {/* End NFT Section */}
 
-            {/* Other Section */}
-            <LinkSection>
-              <h3>{others[0].type}</h3>
-              {/* BioData.js > newProduct == true */}
-              {/* New Section will render once newProduct == true */}
-              {(newProduct) ? <NewSection>
-                <a href={newProductUrl} target="_blank" rel="noreferrer">
-                  <img
-                    src={'/newproduct.png'}
-                    className="newproduct"
-                  />
-                </a>
-              </NewSection> : ''
-              }
-              {/* End Biodata.js, You can move this section anywhere */}
-              {
-                others.map((i) => {
-                  return (
-                    <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
-                      <LinkBox>
-                        <LinkTitle><img src={i.icon} /> {i.title}</LinkTitle> <NewUp />
-                      </LinkBox>
-                    </a>
-                  )
-                })
-              }
-            </LinkSection>
-            {/* End Other Section */}
+           
 
           </WebLinkWrap>
           {/* End Weblinks */}
