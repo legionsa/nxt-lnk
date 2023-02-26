@@ -1,13 +1,13 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Kalvin',
+        name: 'Kalvin Lim',
         username: '@hikalvin',
         url: 'https://loz.my.id',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
-        description: 'Hi, I am a UI Designer and later a Product designer based in Jakarta 🇮🇩 with 5+ years of experience in emerging products. ',
+        description: 'I am a UI Designer and later a Product designer based in Jakarta 🇮🇩 with 5+ years of experience in emerging products. ',
         descShow: true,
         subdesc: 'Currently working on Game and Gamification at Shopee (SeaLabs Indonesia)',
         subdescShow: true,
