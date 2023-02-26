@@ -10,14 +10,14 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/legionsa',
+        url: 'https://instagram.com/realvjy',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/HiKalvin',
+        url: 'https://dribbble.com/realvjy',
         type: 'social',
         icon: '/dribbble.svg',
         on: false
@@ -34,7 +34,7 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: false
+        on: true
     },
     {
         title: 'Youtube',
@@ -45,7 +45,7 @@ const webLinks = [
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@hikalvin',
+        url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
         on: true
@@ -59,10 +59,10 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/hikalvin/',
+        url: 'https://www.linkedin.com/in/realvjy/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: true
+        on: false
     },
     {
         title: 'Mastodon',
@@ -141,7 +141,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: false
+        on: true
     },
 
     {
@@ -149,7 +149,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 
     {
@@ -157,7 +157,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 ];
 
