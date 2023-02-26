@@ -9,9 +9,9 @@ export default {
         keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
         images: [
             {
-                width: 1200,
-                height: 630,
-                url: `https://www.notion.so/hikalvin/37140efa49cd4051962e3bfce99705f4?v=12a4c801ca574400b1be08b29f07f7a9&p=cea8f62b09bc46ef8ebd0d39e81c718f&pm=c`,
+                width: 1280,
+                height: 1280,
+                url: `https://i.ibb.co/VMXX00Q/avatar.png`,
             },
         ],
         site_name: 'kalvinlim',
