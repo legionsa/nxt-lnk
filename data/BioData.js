@@ -2,7 +2,7 @@
 const bioData = [
     {
         name: 'Kalvin Lim',
-        username: 'loz.my.id',
+        username: '@hikalvin',
         url: 'https://loz.my.id',
         titleImg: true,
         avatar: '/avatar.png',
