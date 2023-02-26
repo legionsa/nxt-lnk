@@ -13,9 +13,9 @@ export default function Layout({ children }) {
 
 const Main = styled.main`
   min-height: 100vh;
-  background: url('/bg.png') repeat;
+  background: url('/bg.png') no-repeat;
   background-blend-mode: multiply;
-  background-size: 100%;
+  background-size: cover;
   background-position: -50vh 10%;
   background-attachment: fixed;
   @media screen and (max-width: ${({ theme }) => theme.deviceSize.tablet}) {
